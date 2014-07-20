@@ -21,6 +21,9 @@ The easiest way to use is via rawgit.com to include as a script in the page
 
     <script type="text/javascript" src="https://rawgit.com/squiddle/react-art-cljs/master/src/react-art/ReactART.js"></script>
 
+To rebuild the ``src/ReactART.js`` file go into the react-art folder and execute the ``create-bundle.sh`` script.
+
+
 License
 -------
 CC0 1.0 Universal
