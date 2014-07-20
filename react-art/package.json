@@ -4,6 +4,7 @@
 	"main": "./bundle.js",
 	"dependencies":{
 		"react-art": "^0.10.2",
+		"react-art": "squiddle/react-art.git#fix-for-react-api-changes",
 		"react": "0.10.0"
 	},
 	"devDependencies": {
