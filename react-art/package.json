@@ -1,12 +1,12 @@
 {
-	"name": "react-art-bundle",
-	"description":"a bundle of react and react-art to be used with react-art-cljs",
-	"main": "./bundle.js",
-	"dependencies":{
-		"react-art": "squiddle/react-art.git#fix-for-react-api-changes",
-		"react": "0.10.0"
-	},
-	"devDependencies": {
-    	"webpack": "^1.3.2-beta2"
-  	}
+    "name": "react-art-bundle",
+    "description":"a bundle of react and react-art to be used with react-art-cljs",
+    "main": "./bundle.js",
+    "dependencies":{
+        "react-art": "0.11.0",
+        "react": "0.11.1"
+    } ,
+    "devDependencies": {
+        "webpack": "^1.3.2-beta2"
+    }
 }
